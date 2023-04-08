@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Доберштейн Алина Сергеевна
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Алина Сергеевна
+last_name: Доберштейн
 
 # Status emoji
 status:
