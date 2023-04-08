@@ -75,5 +75,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alina Dobershteyjn is a student of Peoples' Friendship University of Russia. Her research interests include Artificial Intelligence, Machine learning , Data science and cybersecurity. 
 {style="text-align: justify;"}
